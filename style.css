@@ -16,7 +16,7 @@
     
 }
 .field:hover .ball{
-    transform: translate(700px ,-150px);
+    transform: translate(1000px ,-150px);
 }
 
 .ball {
@@ -27,4 +27,7 @@
     position: relative;
     left: 424px;
     transition: transform 1s ease-out .4s ;
+}
+h2{
+text-align: center;    
 }
